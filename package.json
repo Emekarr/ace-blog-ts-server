@@ -1,0 +1,11 @@
+{
+  "name": "aceblog-server-ts",
+  "version": "1.0.0",
+  "description": "Aceblog sever written in TypeScript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chiemekam Anyanwu-Ebere",
+  "license": "ISC"
+}
